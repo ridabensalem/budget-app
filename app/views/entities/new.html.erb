@@ -1,5 +1,4 @@
 <div class='container mt-5' style="width: 50%">
-  <%= image_tag("cate4.png", alt: "Logo", size: '200x250', class: "photo2") %>
   <h4 class="bg-warning text-center text-white pb-2">Add new Transaction</h4>
   <div class="container-fluid mt-3">
     <%= form_with model: @entity, url: user_group_entities_path(user: current_user, group: @group) do |form| %>
