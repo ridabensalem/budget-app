@@ -288,7 +288,7 @@ PLATFORMS
 DEPENDENCIES
   bootsnap
   bootstrap (~> 5.2)
-  cancancan
+  cancancan (~> 3.1)
   capybara
   debug
   devise
