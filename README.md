@@ -71,7 +71,7 @@
 
 <!-- Video recording -->
 
-## 🚀 Video Record <a name="video-record"></a>
+## 📷 Video Record <a name="video-record"></a>
 
 - [Video recording ](https://www.loom.com/share/adf4eec9c51149fd9e37c8ef0ce00b9f?sid=00c85497-d02c-4d10-977c-c5f9a10dd13e)
 
